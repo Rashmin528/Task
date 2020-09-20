@@ -1,0 +1,12 @@
+C:\Users\Technology\source\repos\hussmann\hussmann\bin\Debug\hussmann.exe.config
+C:\Users\Technology\source\repos\hussmann\hussmann\bin\Debug\hussmann.exe
+C:\Users\Technology\source\repos\hussmann\hussmann\bin\Debug\hussmann.pdb
+C:\Users\Technology\source\repos\hussmann\hussmann\bin\Debug\hussmann.xml
+C:\Users\Technology\source\repos\hussmann\hussmann\obj\Debug\hussmann.vbprojAssemblyReference.cache
+C:\Users\Technology\source\repos\hussmann\hussmann\obj\Debug\hussmann.Form1.resources
+C:\Users\Technology\source\repos\hussmann\hussmann\obj\Debug\hussmann.Resources.resources
+C:\Users\Technology\source\repos\hussmann\hussmann\obj\Debug\hussmann.vbproj.GenerateResource.cache
+C:\Users\Technology\source\repos\hussmann\hussmann\obj\Debug\hussmann.vbproj.CoreCompileInputs.cache
+C:\Users\Technology\source\repos\hussmann\hussmann\obj\Debug\hussmann.exe
+C:\Users\Technology\source\repos\hussmann\hussmann\obj\Debug\hussmann.xml
+C:\Users\Technology\source\repos\hussmann\hussmann\obj\Debug\hussmann.pdb
